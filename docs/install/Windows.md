@@ -27,6 +27,10 @@ $ pip install -r requirements.txt -i http://pypi.douban.com/simple/ --trusted-ho
 
 下载: https://sec.ly.com/mirror/mongodb-win32-x86_64-2008plus-ssl-3.4.0-signed.msi
 
+若上述地址无法下载可以尝试：
+
+http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.4.0-signed.msi
+
 ## 二、部署与配置
 
 ### 1. 启动数据库
